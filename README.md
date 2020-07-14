@@ -11,7 +11,7 @@ I am Ruikai Cui 😃. I am from Shandong, China and currently doing my BEng. in 
 ## Hello World!! 🗺️
 - 💬 Ask me about anything and everything.
 - 🎯 See my Curriculum Vitae: [CV](https://ruikai.cc/)
-- ⚡ Welcome to visit my page: [Page](https://www.ruikai.ink)
+- ⚡ Welcome to visit my page: [Page](https://ruikai.ink/)
 
 
 
