@@ -86,8 +86,10 @@
     <ul class="social-icons">
         <li><a href="https://github.com/CuiRuikai" target="_blank"><i class="fa fa-github-square"></i></a></li>
         <li><a href="https://twitter.com/ruikai5" target="_blank"><i class="fa fa-twitter"></i></a></li>
-        <li><a href="https://www.linkedin.com/in/ruikai-cui-8185501a2/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
-        <li><a href="https://scholar.google.com/citations?user=yhscu8IAAAAJ&hl=en&oi=ao" target="_blank"><i class="fa fa-google"></i></a></li>
+        <li><a href="https://www.linkedin.com/in/ruikai-cui-8185501a2/" target="_blank"><i
+                class="fa fa-linkedin"></i></a></li>
+        <li><a href="https://scholar.google.com/citations?user=yhscu8IAAAAJ&hl=en&oi=ao" target="_blank"><i
+                class="fa fa-google"></i></a></li>
     </ul>
 
     <ul class="stats">
@@ -156,7 +158,8 @@
         <div class="section-heading">
             <ul>
                 <li> 09-2020 <em>&bullet;</em> We have a paper accepted by ICONIP 2020. <a
-                        href="https://link.springer.com/chapter/10.1007/978-3-030-63820-7_39" target="_blank"> See here </a></li>
+                        href="https://link.springer.com/chapter/10.1007/978-3-030-63820-7_39" target="_blank"> See
+                    here </a></li>
                 <li> 07-2020 <em>&bullet;</em> I received a Letter of Commendation from the Chancellor. <a
                         href="static/files/CM1.pdf" target="_blank"> See here </a></li>
                 <li> 07-2020 <em>&bullet;</em> I started my honours year at ANU, advised by Prof. Stephen Gould.</li>
@@ -169,33 +172,36 @@
     </section>
 
 
-    <section id="blog" class="content-section">
+    <section id="publication" class="content-section">
         <div class="section-heading">
-            <h1><em>Publications </em> and <em>Projects</em></h1>
+            <h1><em>Publications</em> and <em>Projects</em></h1>
         </div>
-        <div class="section-content">
-            <div class="tabs-content">
-                <div class="wrapper">
-                    <section id="first-tab-group" class="tabgroup">
-                        <div id="tab1">
-                            <ul>
-                                <li>
-                                    <div class="item">
-                                        <h4>Declarative Residual Network for Robust Facial Expression Recognition</h4>
-                                        <span>Ruikai Cui, Josephine Plested, Jiaxu Liu</span>
-                                        <p>In International Conference on Neural Information Processing (ICONIP),
-                                            2020.</p>
-
-                                        <div class="accent-button button">
-                                            <a href="https://link.springer.com/chapter/10.1007/978-3-030-63820-7_39" target="_blank">Paper</a>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </section>
+        <div class="section-heading">
+            <ul>
+                <li>Declarative Residual Network for Robust Facial Expression Recognition<br>
+                    Ruikai Cui, Josephine Plested, Jiaxu Liu<br>
+                    <i>International Conference on Neural Information Processing</i> <b>(ICONIP)</b>, 2020.
+                    <br>
+                    <a href="javascript:toggleBibtex(&#39;ICONIP_2020&#39;)">[BibTeX]</a>
+                    <a href="https://link.springer.com/chapter/10.1007/978-3-030-63820-7_39" target="_blank">[Paper]</a>
+                    <a href="https://github.com/JingZhang617/UCNet">[Code]</a>
+                </li>
+                <div id="bib_ICONIP_2020" class="bibtex noshow">
+                <pre>
+    @InProceedings{10.1007/978-3-030-63820-7_39,
+    author="Cui, Ruikai
+    and Plested, Josephine
+    and Liu, Jiaxu",
+    title="Declarative Residual Network for Robust Facial Expression Recognition",
+    booktitle="Neural Information Processing",
+    year="2020",
+    pages="345--352"
+    }
+                </pre>
                 </div>
-            </div>
+                <br>
+
+            </ul>
         </div>
     </section>
 
@@ -258,6 +264,22 @@
 </script>
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+    <!--
+    // Toggle Display of BibTeX
+    function toggleBibtex(articleid) {
+        var bib = document.getElementById('bib_'+articleid);
+        if (bib) {
+            if(bib.className.indexOf('bibtex') != -1) {
+                bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
+            }
+        } else {
+            return;
+        }
+    }
+    -->
+</script>
 
 
 </body>
