@@ -522,6 +522,7 @@ header {
   padding-left: 60px;
   padding-right: 60px;
   padding-bottom: 30px;
+  border-bottom: 2px solid #eee;
 }
 
 #publication .section-heading {
@@ -529,6 +530,23 @@ header {
 }
 
 #publication .content-section {
+  display: block;
+  position: relative;
+}
+
+/* Work */
+
+#work {
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-bottom: 30px;
+}
+
+#work .section-heading {
+  margin-right: 10%;
+}
+
+#work .content-section {
   display: block;
   position: relative;
 }
