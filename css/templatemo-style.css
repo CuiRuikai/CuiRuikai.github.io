@@ -603,7 +603,6 @@ header {
     font-size: 15px;
   }
 
-
 }
 
 
@@ -661,8 +660,6 @@ header {
     z-index:5;
   }
 
-
-
 }
 
 @media (max-width: 690px) {
@@ -683,7 +680,6 @@ header {
 .biblist li { }
 
 /* You can define custom styles for plstyle field here. */
-
 
 /*************************************
  The box that contain BibTeX code
