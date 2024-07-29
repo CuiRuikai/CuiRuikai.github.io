@@ -24,28 +24,39 @@ about:
 
 # About Me
 
-Hi, I am Ruikai Cui (崔瑞凯), a final-year Ph.D. student at The Australian National University (ANU), advised by Prof. <a
-                    href="http://users.cecs.anu.edu.au/~nmb/"> Nick\ Barnes</a>, Prof. <a
-                    href="https://saeed-anwar.github.io/"> Saeed\ Anwar</a>, and Prof. <a
-                    href="https://users.cecs.anu.edu.au/~hongdong/"> Hongdong\ Li</a>. 
-                    
-I received my bachelor's degree in computer science and technology from the ANU and Shandong University. My primary research interest is 3D Reconstruction and Generation.
+Hi, I am Ruikai Cui (崔瑞凯), a final-year Ph.D. student at The Australian National University (ANU), advised by 
+Prof. <a href="http://users.cecs.anu.edu.au/~nmb/"> Nick\ Barnes</a>, 
+Prof. <a href="https://saeed-anwar.github.io/"> Saeed\ Anwar</a>, and 
+Prof. <a href="https://users.cecs.anu.edu.au/~hongdong/"> Hongdong\ Li</a>. 
+Before that, I received my bachelor's degree in computer science from the ANU and Shandong University in 2021. 
+
+My research focues on 3D Reconstruction and Generation. 
 
 
 :::
 
 # News
 + **07/2024** One paper accepted in ECCV. Thanks to all authors!
++ **05/2024** One paper accepted in SIGGRAPH. Congrats to Zhennan!
++ **02/2024** One paper accepted in CVPR. Congrats to Jiawei!
 + **09/2023** Joined Tencent’s XR Vision Labs as a research intern.
-+ **07/2023** One paper accepted in ICCV. Thanks to all authors!
++ **07/2023** Two paper accepted in ICCV. Thanks to all authors and Congrats to Jiawei!
 + **09/2022** One paper accepted in BMVC. Thanks to all authors!
 + **07/2021** I was awarded a University Medal.
 + **06/2021** I was awarded an ANU PhD scholarship and an ANU HDR Fee Remission Merit Scholarship
+
+<details>
+  <summary>more</summary>
 + **12/2020** Joined the Computational Media Lab as a summer research.
 + **09/2020** One paper accepted in ICONIP. Thanks to all authors!
+</details>
 
 
-# Publications
+
+
+# Selected Publications
+
+To view my complete list of publications, please visit my Google Scholar profile.
 
 + **NeuSDFusion: A Spatial-Aware Generative Model for 3D Shape Completion, Reconstruction, and Generation** \
 <ins>R Cui</ins>,W Liu, W Sun, S Wang, T Shang, Y Li, X Song, H Yan, Z Wu, S Chen, H Li, P Ji \
@@ -80,6 +91,14 @@ International Conference on Neural Information Processing (ICONIP), 2020 \
 [[Code](https://github.com/CuiRuikai/Bidirectional-Residual-Declarative-Network)]
 
 
+# Teaching
+
++ COMP4680/8650 Advanced Topics in Machine Learning (2021-2022 ANU, Tutor)
++ COMP4650/6990 Document Analysis (2021-2022, ANU, Tutor)
++ COMP3670/6670 Introduction to Machine Learning (2020-2021, ANU, Tutor)
++ COMP3600/6466 Algorithms (2020, ANU, Tutor)
+
+
 <!---
 # Misc
 % I like badminton, cooking, music, etc.
@@ -89,4 +108,6 @@ International Conference on Neural Information Processing (ICONIP), 2020 \
 + Email: firstname dot lastname \@anu.edu.au
 + Address: Brain Anderson Building, 115 North Road, Canberra, ACT 2601, Australia
 
+
+_Last update: July 2024_
 
