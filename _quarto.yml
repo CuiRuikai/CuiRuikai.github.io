@@ -5,6 +5,7 @@ project:
 website:
   page-navigation: true
   title: "Hello :)"
+  favicon: "static/favicon.svg"
 
   page-footer:
     center: "&copy; Copyright 2024, Ruikai Cui"
