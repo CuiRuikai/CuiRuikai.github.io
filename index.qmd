@@ -1,0 +1,92 @@
+---
+title: "Ruikai Cui"
+image: static/profile.jpeg
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 10em
+  image-shape: rectangle
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/CuiRuikai
+    - icon: google
+      text: Google Schalor
+      href: https://scholar.google.com/citations?user=yhscu8IAAAAJ&hl=en
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ruikai-cui-8185501a2/
+
+      
+---
+
+::: {#hero-heading}
+
+# About Me
+
+Hi, I am Ruikai Cui (崔瑞凯), a final-year Ph.D. student at The Australian National University (ANU), advised by Prof. <a
+                    href="http://users.cecs.anu.edu.au/~nmb/"> Nick\ Barnes</a>, Prof. <a
+                    href="https://saeed-anwar.github.io/"> Saeed\ Anwar</a>, and Prof. <a
+                    href="https://users.cecs.anu.edu.au/~hongdong/"> Hongdong\ Li</a>. 
+                    
+I received my bachelor's degree in computer science and technology from the ANU and Shandong University. My primary research interest is 3D Reconstruction and Generation.
+
+
+:::
+
+# News
++ **07/2024** One paper accepted in ECCV. Thanks to all authors!
++ **09/2023** Joined Tencent’s XR Vision Labs as a research intern.
++ **07/2023** One paper accepted in ICCV. Thanks to all authors!
++ **09/2022** One paper accepted in BMVC. Thanks to all authors!
++ **07/2021** I was awarded a University Medal.
++ **06/2021** I was awarded an ANU PhD scholarship and an ANU HDR Fee Remission Merit Scholarship
++ **12/2020** Joined the Computational Media Lab as a summer research.
++ **09/2020** One paper accepted in ICONIP. Thanks to all authors!
+
+
+# Publications
+
++ **NeuSDFusion: A Spatial-Aware Generative Model for 3D Shape Completion, Reconstruction, and Generation** \
+<ins>R Cui</ins>,W Liu, W Sun, S Wang, T Shang, Y Li, X Song, H Yan, Z Wu, S Chen, H Li, P Ji \
+European Conference on Computer Vision (ECCV), 2024 \
+[[arXiv](https://arxiv.org/abs/2403.18241)]
+[[Project Page](https://weizheliu.github.io/NeuSDFusion/)]
+
++ **P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds** \
+<ins>R Cui</ins>, S Qiu, S Anwar, J Liu, C Xing, J Zhang, N Barnes \
+IEEE International Conference on Computer Vision (ICCV), 2023 \
+[[arXiv](https://arxiv.org/abs/2307.14726)]
+[[IEEE](https://ieeexplore.ieee.org/document/10376600)]
+[[CVF](https://openaccess.thecvf.com/content/ICCV2023/papers/Cui_P2C_Self-Supervised_Point_Cloud_Completion_from_Single_Partial_Clouds_ICCV_2023_paper.pdf)]
+[[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Cui_P2C_Self-Supervised_Point_ICCV_2023_supplemental.pdf)]
+[[Poster](https://github.com/CuiRuikai/Partial2Complete/blob/main/assets/ICCV_Poster.pdf)]
+[[Code](https://github.com/CuiRuikai/Partial2Complete)]
+
+
++ **Energy-Based Residual Latent Transport for Unsupervised Point Cloud Completion** \
+<ins>Ruikai Cui</ins>, Shi Qiu, Saeed Anwar, Jing Zhang, Nick Barnes \
+British Machine Vision Conference (BMVC), 2022 \
+[[arXiv](https://arxiv.org/abs/2211.06820)]
+[[BMVC](https://bmvc2022.mpi-inf.mpg.de/0048.pdf)]
+[[Supp](https://bmvc2022.mpi-inf.mpg.de/0048_supp.zip)]
+[[Poster](https://bmvc2022.mpi-inf.mpg.de/0048_poster.pdf)]
+[[Code](https://github.com/CuiRuikai/Latent-Transport-UPCN)]
+
++ **Declarative Residual Network for Robust Facial Expression Recognition** \
+<ins>Ruikai Cui</ins>, Josephine Plested, Jiaxu Liu \
+International Conference on Neural Information Processing (ICONIP), 2020 \
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-030-63820-7_39)] 
+[[Code](https://github.com/CuiRuikai/Bidirectional-Residual-Declarative-Network)]
+
+
+<!---
+# Misc
+% I like badminton, cooking, music, etc.
+-->
+
+# Contact
++ Email: firstname dot lastname \@anu.edu.au
++ Address: Brain Anderson Building, 115 North Road, Canberra, ACT 2601, Australia
+
+
