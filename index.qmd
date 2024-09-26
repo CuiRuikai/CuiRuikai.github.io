@@ -37,6 +37,7 @@ My research focues on 3D reconstruction and generation.
 
 # News
 
+-   **09/2024** One paper accepted in NeurIPS. Thanks to all authors!
 -   **07/2024** One paper accepted in ECCV. Thanks to all authors!
 -   **05/2024** One paper accepted in SIGGRAPH. Congrats to Zhennan!
 -   **02/2024** One paper accepted in CVPR. Congrats to Jiawei!
@@ -61,6 +62,11 @@ My research focues on 3D reconstruction and generation.
 
 To view my complete list of publications, please visit my Google Scholar
 profile.
+
+-   **LAM3D: Large Image-Point-Cloud Alignment Model for 3D Reconstruction from Single Image**\
+    <ins>R Cui</ins>, X Song, W Sun, S Wang, W Liu, S Chen, T Shang, Y Li, N Barnes, H Li, P Ji\
+    Advances in Neural Information Processing Systems (NeurIPS), 2024\
+    \[[arXiv](https://arxiv.org/abs/2405.15622)\]
 
 -   **NeuSDFusion: A Spatial-Aware Generative Model for 3D Shape
     Completion, Reconstruction, and Generation**\
