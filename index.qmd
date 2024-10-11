@@ -33,6 +33,8 @@ Before that, I received my bachelor's degree in computer science from
 the ANU and Shandong University in 2021.
 
 My research focues on 3D reconstruction and generation.
+
+I am expected to graduate in June 2025 and am actively seeking job opportunities in related fields.
 :::
 
 # News
@@ -127,4 +129,4 @@ profile.
 -   Address: Brain Anderson Building, 115 North Road, Canberra, ACT
     2601, Australia
 
-*Last update: Sept 2024*
+*Last update: Oct 2024*
